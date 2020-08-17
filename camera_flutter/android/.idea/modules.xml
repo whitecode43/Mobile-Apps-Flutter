@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android.iml" filepath="$PROJECT_DIR$/.idea/modules/android.iml" group="android" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="android/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/479968597/camera.iml" filepath="$PROJECT_DIR$/.idea/modules/479968597/camera.iml" group="android/camera" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-409459267/simple_permissions.iml" filepath="$PROJECT_DIR$/.idea/modules/-409459267/simple_permissions.iml" group="android/simple_permissions" />
+    </modules>
+  </component>
+</project>
